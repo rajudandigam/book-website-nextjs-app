@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Pravesh-Sudha/book-website-nextjs.git
+   git clone https://github.com/rajudandigam/book-website-nextjs-app.git
    ```
 
 2. Navigate to the project directory:
@@ -92,11 +92,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out through my social media:
-
-✨ [Twitter](https://www.x.com/praveshstwt)  
-✨ [YouTube](https://www.youtube.com/@pravesh-sudha)  
-✨ [LinkedIn](https://www.linkedin.com/in/pravesh-sudha/)  
